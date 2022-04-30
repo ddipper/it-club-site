@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Exo 2";
+}
+
+.header-a-group{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 50%;
+}
+
+.header-a{
+    color: #2f2f2f;
+    text-decoration: none;
+    font-size: 13pt;
+}
+
+header img{
+    width: 100px;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #ffffff;
+    padding: 0px;
+    padding-top: 17px;
+    padding-left: 10px;
+    padding-right: 100px;
+    align-items: center;
+    padding-bottom: 17px;
+    color: #2f2f2f;
+    position: fixed;
+    width: 100%;
+}
+
+.header-it-club{
+    background-color: #2f2f2f;
+    padding-top: 200px;
+    width: 78%;
+    height: 763px;
+    padding-left: 22%;
+     color: #ffffff;
+}
+
+.header-it-club h2{
+    font-size: 25pt;
+}
+
+.header-it-club h1{
+    font-size: 80pt;
+    font-family: "Formula1 Display Regular";
+}
+
+.header-it-club h3{
+    font-size: 15pt;
+    font-weight: normal;
+}
+
+.header-it-club button{
+    width: 270px;
+    padding: 15px;
+    height: 60px;
+    border-radius: 7px;
+    background-color: #51777c;
+    border: none;
+    font-size: 18pt;
+    color:#ffffff;
+}
